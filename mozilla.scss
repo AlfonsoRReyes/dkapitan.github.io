@@ -1,0 +1,49 @@
+// Google Fonts
+@import url(http://fonts.googleapis.com/css?family=Zilla+Slab|Zilla+Slab+Highlight|Inter|Fira+Code:400italic,700italic,300,400,700);
+
+/*-- scss:defaults --*/
+// bootstrap variables https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+// Fonts
+$zilla-slab: "Zilla Slab", serif;
+$zilla-slab-highlight: "Zilla Slab Highlight", serif;   
+$inter: "Inter", sans-serif;
+$fira-code: "Fira Code";
+
+$font-family-sans-serif: $inter;
+$font-family-monospace: $fira-code;
+$headings-font-family: $zilla-slab;
+$navbar-default-font: $zilla-slab;
+
+// Colours
+$black: #000000;
+$white: #ffffff;
+$neon-blue: #00ffff;
+$lemon-yellow: #fff44f;
+$warm-red: #ff4f5e;
+$neon-green: #54ffbd;
+$dark-purple: #6e008b;
+$dark-green: #005e5e;
+$dark-blue: #00458b;
+$dark-grey: #959595;
+$light-grey: #e7e5e2;
+
+$link-color: $warm-red;
+
+// navbar https://quarto.org/docs/output-formats/html-themes.html#navigation
+$navbar-bg: $white;
+$navbar-fg: $dark-grey;
+$navbar-hl: $black;
+$sidebar-bg: $white;
+$sidebar-fg: $black;
+$sidebar-hl: $warm-red;
+
+// Base layout
+// https://getbootstrap.com/docs/5.1/components/navbar/#containers
+
+$spacer: 1rem;
+$navbar-padding-y: $spacer * 1.5;
+$navbar-padding-x: null;
+
+

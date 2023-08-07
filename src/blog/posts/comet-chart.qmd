@@ -61,7 +61,7 @@ total = (
 
 def comet_chart(df, stroke="white"):
     return (
-    alt.Chart(df, width=700, height=500)
+    alt.Chart(df, width=600, height=450)
     .mark_trail(stroke=stroke)
     .encode(
         x=alt.X("number_of_flights", scale=alt.Scale(type="log")),

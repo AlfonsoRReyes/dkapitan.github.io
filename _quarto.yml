@@ -4,13 +4,14 @@ project:
 
 website:
   title: "@kapitan"
+  site-url: https://masteringdata.ai
   search:
     location: sidebar
     type: textbox
   navbar:
     title: false
     logo: images/@kapitan-logo-redbrick-320x132.png
-    pinned: true
+    pinned: false
     collapse-below: lg
   sidebar:
     style: floating

@@ -46,4 +46,23 @@ $spacer: 1rem;
 $navbar-padding-y: $spacer * 1.5;
 $navbar-padding-x: null;
 
+// Set fonts
+.navbar, .sidebar, .quarto-secondary-nav {
+    font-family: $zilla-slab;
+}
 
+.sidebar-navigation .sidebar-item {
+    font-size: 1.2rem
+}
+
+div.quarto-post .body .listing-subtitle {
+    font-family: $zilla-slab;
+    font-weight: 300;
+    font-size: .875em;
+    margin-bottom: 0.5em;
+    margin-top: 0.2em;
+}
+
+div.quarto-post .listing-description {
+    font-size: .875em;
+}

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "@kapitan"
@@ -29,17 +30,16 @@ website:
     contents:
       - section: "Services"
         contents:
-          - docs/mentoring.qmd
-          - docs/masterclasses.qmd
+          - src/mentoring.qmd
+          - src/masterclasses.qmd
       - section: "Projects"
         contents:
-          - docs/projects/project-1.qmd
-          - docs/projects/project-2.qmd
+          - src/projects/project-1.qmd
+          - src/projects/project-2.qmd
       - text: "Blog"
-        href: docs/blog/listing.qmd
+        href: src/blog/listing.qmd
       - text: "About me"
-        href: docs/about.qmd
-
+        href: src/about.qmd
 
 format:
   html:
@@ -49,6 +49,9 @@ format:
         - mozilla.scss
     css: styles.css
     toc: true
+
+execute: 
+  freeze: auto
 
 # filters:
 #   - nutshell

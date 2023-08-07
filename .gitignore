@@ -1,0 +1,7 @@
+/.luarc.json
+
+# Quarto, output-dir is docs for gh-pages
+/.quarto/
+/docs/
+/_freeze/
+

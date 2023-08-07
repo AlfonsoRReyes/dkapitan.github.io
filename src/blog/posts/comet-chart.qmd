@@ -75,7 +75,8 @@ def comet_chart(df, stroke="white"):
             "change_mean_delay",
             "mean_distance",
         ],
-        # trails don't support continuous color, see https://github.com/vega/vega/issues/1187
+        # trails don't support continuous color
+        # see https://github.com/vega/vega/issues/1187
         # hence use bins
         color=alt.Color(
             "change_mean_delay:Q",

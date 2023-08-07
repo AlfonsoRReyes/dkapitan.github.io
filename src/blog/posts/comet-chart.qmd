@@ -36,7 +36,8 @@ df = (
     grouped.agg(**aggregation)
     .loc[(slice(None), [1, 3]), :]
     .assign(
-        change_mean_delay=lambda df: df.groupby("destination")["mean_delay"].diff(),
+        change_mean_delay=lambda df:
+            df.groupby("destination")["mean_delay"].diff(),
     )
     .fillna(method="bfill")
     .reset_index()

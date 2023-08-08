@@ -10,7 +10,7 @@ website:
     type: textbox
   navbar:
     title: false
-    logo: images/@kapitan-logo-redbrick-320x132.png
+    logo: images/logo-@kapitan.png
     pinned: false
     collapse-below: lg
   sidebar:

@@ -4,10 +4,10 @@ subtitle: Visualizing statistical mix effects and Simpson’s paradox with Altai
 author: Daniel Kapitan
 date: 2021-01-29
 date-format: short
-image: comet-chart.png
+image: /images/comet-chart.png
 html:
     code-fold: true
-categories: [visualization, coding]
+categories: [english, visualization, coding]
 ---
 
 [Zan Armstrong’s comet chart](https://www.zanarmstrong.com/#/infovisresearch/) has been on my list of hobby projects for a while now. I think it is an elegant solution to visualize statistical mix effects and address Simpson’s paradox, and particularly useful when working with longitudinal data involving different sub-populations. Recently I found a good excuse to spend some time to actually use it as part of a exploratory data analysis on a project.

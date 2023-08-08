@@ -6,8 +6,8 @@ description: |
 author: Daniel Kapitan
 date: 2022-03-10
 date-format: short
-image: logo-american-statistician.png
-categories: [modeling]
+image: /images/logo-american-statistician.png
+categories: [english, modeling]
 ---
 
 {{< pdf /resources/demast2023analytical.pdf width=100% height=800 >}}

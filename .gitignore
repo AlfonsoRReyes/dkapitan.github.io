@@ -5,3 +5,5 @@
 /docs/
 /_freeze/
 
+# notebooks
+**/.ipynb_checkpoints

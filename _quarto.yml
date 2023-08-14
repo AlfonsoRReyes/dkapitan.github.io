@@ -25,7 +25,9 @@ website:
       - icon: github
         href: https://github.com/dkapitan
         text: "GitHub profile"
-
+      - icon: rss
+        href: https://masteringdata.ai/src/blog/index.xml
+        text: "RSS feed"
     collapse-level: 1
     background: light
     contents:
@@ -38,10 +40,26 @@ website:
           - src/projects/project-1.qmd
           - src/projects/project-2.qmd
       - text: "Blog"
-        href: src/blog/listing.qmd
+        href: src/blog/index.qmd
       - text: "About me"
         href: src/about.qmd
-
+  page-footer:
+    left: |
+      This website was created with 
+      [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org).
+    center:
+      - icon: linkedin
+        href: https://linkedin.com/in/dkapitan
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/quarto-dev/quarto-cli
+        aria-label: GitHub
+      - icon: rss
+        href: https://masteringdata.ai/src/blog/index.xml
+        aria-label: Blog RSS     
+    right: |
+      Copyright &copy; 2023 Daniel Kapitan. 
+    
 format:
   html:
     theme:

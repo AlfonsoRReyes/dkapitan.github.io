@@ -32,6 +32,7 @@ website:
     background: light
     contents:
       - section: "Services"
+        href: src/services/index.qmd
         contents:
           - src/mentoring.qmd
           - src/masterclasses.qmd
@@ -43,6 +44,8 @@ website:
         href: src/blog/index.qmd
       - text: "About me"
         href: src/about.qmd
+      - text: "Book an appointment"
+        href: src/calendar.qmd
       - text: "Company details"
         href: src/contact.qmd
   page-footer:

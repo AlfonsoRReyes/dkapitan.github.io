@@ -3,14 +3,14 @@ title: "About me"
 about:
     id: hero-heading
     template: solana
-    image: ../images/vka-profile.png
+    image: ../images/vka-profile-colour.png
     links:
-        - icon: github
-          text: Github
-          href: https://github.com/dkapitan
         - icon: linkedin
           text: LinkedIn
           href: https://linkedin.com/in/dkapitan
+        - icon: github
+          text: Github
+          href: https://github.com/dkapitan
 toc: false
 ---
 
@@ -41,5 +41,6 @@ __email:__ [daniel@kapitan.net](mailto:daniel@kapitan.net) <br>
 __mobile:__ +31 (0)6 2409 7295
 
 #
-
-<a href="https://calendar.google.com/calendar/appointments/AcZssZ3bat8-Gyswn1RmSeowmu2ZAdqkJl9YDoSjNnk=?gv=true" class="btn btn-primary btn-lg active" role="button">Book an appointment</a>
+```{=html}
+<a href="calendar.html" class="btn btn-primary btn-lg" type="button">Book an appointment</a>
+```

@@ -1,3 +1,5 @@
+// Quarto theme based on https://mozilla.design/mozilla/
+
 // Google Fonts
 @import url(//fonts.googleapis.com/css?family=Zilla+Slab|Zilla+Slab+Highlight|Inter|Fira+Code:400italic,700italic,300,400,700);
 
@@ -16,39 +18,11 @@ $font-family-monospace: $fira-code;
 $headings-font-family: $zilla-slab;
 $navbar-default-font: $zilla-slab;
 
-// Colours
-$black: #000000;
-$white: #ffffff;
-$neon-blue: #00ffff;
-$lemon-yellow: #fff44f;
-$warm-red: #ff4f5e;
-$neon-green: #54ffbd;
-$dark-purple: #6e008b;
-$dark-green: #005e5e;
-$dark-blue: #00458b;
-$dark-grey: #959595;
-$light-grey: #e7e5e2;
-
-$link-color: $warm-red;
-
-// navbar https://quarto.org/docs/output-formats/html-themes.html#navigation
-$navbar-bg: $white;
-$navbar-fg: $black;
-$navbar-hl: $black;
-$sidebar-bg: $white;
-$sidebar-fg: $black;
-$sidebar-hl: $warm-red;
-$footer-bg: $light-grey;
-$footer-fg: $black;
-
-// Base layout
-// https://getbootstrap.com/docs/5.1/components/navbar/#containers
-
+// Set fonts and layout
+// Base layout https://getbootstrap.com/docs/5.1/components/navbar/#containers
 $spacer: 1rem;
 $navbar-padding-y: $spacer * 1.5;
 $navbar-padding-x: null;
-
-// Set fonts
 .navbar, .sidebar, .quarto-secondary-nav {
     font-family: $zilla-slab;
 }
@@ -67,4 +41,55 @@ div.quarto-post .body .listing-subtitle {
 
 div.quarto-post .listing-description {
     font-size: .875em;
+}
+
+// Define colours
+$black: #000000;
+$white: #ffffff;
+$neon-blue: #00ffff;
+$lemon-yellow: #fff44f;
+$warm-red: #ff4f5e;
+$neon-green: #54ffbd;
+$dark-purple: #6e008b;
+$dark-green: #005e5e;
+$dark-blue: #00458b;
+$dark-grey: #959595;
+$light-grey: #e7e5e2;
+
+// Use colour
+// navbar https://quarto.org/docs/output-formats/html-themes.html#navigation
+$navbar-bg: $white;
+$navbar-fg: $black;
+$navbar-hl: $black;
+$sidebar-bg: $white;
+$sidebar-fg: $black;
+$sidebar-hl: $warm-red;
+$footer-bg: $light-grey;
+$footer-fg: $black;
+
+$link-color: $warm-red;
+
+.btn-primary {
+    background-color: #ff4f5e !important;
+    border-color: #ff4f5e !important;
+    font-family: "Inter";
+  }
+
+//sidebar
+  div.sidebar-item-container {
+    &:hover {
+        color: $warm-red !important;
+    }
+}
+
+div.sidebar-item-container .active,
+div.sidebar-item-container .show>.nav-link,
+div.sidebar-item-container .sidebar-link>code {
+	background-color: $white;
+	color: $warm-red !important;
+}
+
+.quarto-listing-category .category.active {
+    font-weight: 600;
+    color: $warm-red;
 }

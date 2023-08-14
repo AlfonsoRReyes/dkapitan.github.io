@@ -16,7 +16,7 @@ website:
   sidebar:
     style: floating
     tools:
-      - icon: calendar
+      - icon: calendar-week
         href: https://calendar.app.google/hwXH1FmvDQQiBu7EA
         text: "Book an appointment"
       - icon: linkedin
@@ -43,6 +43,8 @@ website:
         href: src/blog/index.qmd
       - text: "About me"
         href: src/about.qmd
+      - text: "Company details"
+        href: src/contact.qmd
   page-footer:
     left: |
       This website was created with 

@@ -1,11 +1,12 @@
 ---
-# title: Hello, I am Daniel Kapitan
 sidebar:
     - logo: images/@kapitan-logo-redbrick-320x132.png
       style: "docked"
       search: true
 toc: false
-# page-layout: custom
+format: 
+  html:
+    page-layout: full
 ---
 
 ::: {.container-fluid}

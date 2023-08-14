@@ -1,0 +1,21 @@
+---
+sidebar:
+    - logo: images/@kapitan-logo-redbrick-320x132.png
+      style: "docked"
+      search: true
+toc: false
+---
+
+### Address
+
+DWMM Holding B.V.<br>
+Marie Baronstraat 15 <br>
+3056 AA  ROTTERDAM
+
+### Legal & financial details
+
+__Chamber of Commerce (KvK):__ 52920259<br>
+__RSIN:__ 850665851<br>
+__IBAN:__ NL47 KNAB 0259 5268 27
+
+__Terms & Conditions__ in [Dutch](/resources/200402-algemene-voorwaarden.pdf).

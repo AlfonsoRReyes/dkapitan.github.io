@@ -4,9 +4,6 @@ sidebar:
       style: "docked"
       search: true
 toc: false
-format: 
-  html:
-    page-layout: full
 ---
 
 ::: {.container-fluid}
@@ -42,7 +39,7 @@ format:
 ::: {.grid}
 
 ::: {.g-col-4}
-# "Hello, I am Daniel Kapitan."
+# "Hello. I am Daniel Kapitan."
 :::
 
 ::: {.g-col-8}
@@ -53,7 +50,6 @@ I am well-rounded data scientist and strategic advisor with years of experience 
 :::
 ::::
 
-#  
 I work with organizations of all sizes and across a variety of industries, and I pride myself on my collaborative and client-focused approach. I believe that success is achieved through close collaboration, and I work closely with my clients to ensure that we achieve the best possible results together.
 
 Whether you are looking to implement machine learning for the first time or seeking to take your data analytics to the next level, I am here to help. Contact me today to learn more about how I can help your organization harness the power of machine learning and AI to achieve your strategic objectives.

@@ -3,7 +3,7 @@ title: "About me"
 about:
     id: hero-heading
     template: solana
-    image: ../images/vka-profile-colour.png
+    image: ../images/vka-profile.png
     links:
         - icon: linkedin
           text: LinkedIn

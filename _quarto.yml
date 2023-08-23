@@ -32,10 +32,13 @@ website:
     background: light
     contents:
       - section: "Services"
-        href: src/services/index.qmd
         contents:
-          - src/mentoring.qmd
-          - src/masterclasses.qmd
+          - text: "Applied AI"
+            href: src/services/ai-concepting.qmd
+          - text: "Data-centric AI"
+            href: src/services/data-centric-ai.qmd
+          - text: "Coaching & public speaking"
+            href: src/services/coaching.qmd
       - section: "Projects"
         contents:
           - src/projects/project-1.qmd

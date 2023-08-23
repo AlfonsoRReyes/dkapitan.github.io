@@ -1,9 +1,0 @@
----
-title: Services
-toc: false
-format: 
-  html:
-    page-layout: full
----
-
-Carousel with services ...

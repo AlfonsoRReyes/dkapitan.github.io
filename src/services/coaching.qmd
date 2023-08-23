@@ -1,0 +1,51 @@
+---
+toc: false
+---
+
+
+::: {.container-fluid}
+```{=html}
+<div class="p-5 mb-4 bg-light rounded-3 bgimg">
+  <div class="container-fluid py-5">
+    <h1 class="display-5 fw-bold">Coaching, mentoring & masterclasses on Artificial Intelligence</h1>
+  </div>
+</div>
+
+<style type="text/css">
+.bgimg {
+  background-image: url('../../images/hero-speaking.png');
+}
+.hero-quote {
+  font-family: "Zilla Slab";
+  font-color: white;
+  color: white;
+}
+
+.fw-bold {
+  /* font-family: "Zilla Slab Highlight"; */
+  font-style: bold !important;
+  color: white !important;
+}
+</style>
+```
+:::
+
+
+::: {.container}
+::: {.grid}
+
+:::{.g-col-7}
+#### Service offering
+Data and AI will fundamentally change your business, your organisation and your way of working. And not all employees or staff are immediately ready for this. We teach, coach and mentor professionals who require a better understanding of data and artificial intelligence. And make them both comfortable and topic-specialists. For larger audiences, we create workshops or provide key-note speakers so more and more professionals obtain a better understanding of data and AI. 
+:::
+
+:::{.g-col-5}
+#### Expertise
+- One-the-job coaching for individuals and teams
+- Masterclasses for management and executives
+- Technical deep-dives for experts
+- Public speaking on trends and impact of data & AI
+:::
+
+:::
+:::

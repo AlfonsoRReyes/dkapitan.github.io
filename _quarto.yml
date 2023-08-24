@@ -3,22 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "@kapitan"
+  title: "Dr Daniel Kapitan | Applied AI | Data-centric AI | Coaching & Public Speaking"
   site-url: https://masteringdata.ai
   search:
     location: sidebar
     type: textbox
-  navbar:
-    title: false
-    logo: images/logo-@kapitan.png
-    pinned: false
-    collapse-below: lg
+  # navbar:
+  #   title: false
+  #   pinned: false
+  #   collapse-below: md
+  #   right:
+  #     - text: "APPLIED AI"
+  #     - text: "DATA-CENTIRC AI"
+  #     - text: "COACHING & PUBLIC SPEAKING"
   sidebar:
+    logo: images/logo-dr-daniel-kapitan.png
     style: floating
     tools:
-      - icon: calendar-week
-        href: https://calendar.app.google/hwXH1FmvDQQiBu7EA
-        text: "Book an appointment"
       - icon: linkedin
         href: https://www.linkedin.com/in/dkapitan/
         text: "LinkedIn profile"

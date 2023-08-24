@@ -8,14 +8,10 @@ website:
   search:
     location: sidebar
     type: textbox
-  # navbar:
-  #   title: false
-  #   pinned: false
-  #   collapse-below: md
-  #   right:
-  #     - text: "APPLIED AI"
-  #     - text: "DATA-CENTIRC AI"
-  #     - text: "COACHING & PUBLIC SPEAKING"
+  navbar:
+    title: false
+    pinned: false
+    collapse-below: md
   sidebar:
     logo: images/logo-dr-daniel-kapitan.png
     style: floating

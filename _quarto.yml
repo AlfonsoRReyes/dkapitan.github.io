@@ -53,22 +53,11 @@ website:
       - text: "Company details"
         href: src/contact.qmd
   page-footer:
-    left: |
+    center: |
+      Copyright &copy; 2023 Daniel Kapitan.<br>
       This website was created with 
-      [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org).
-    center:
-      - icon: linkedin
-        href: https://linkedin.com/in/dkapitan
-        aria-label: LinkedIn
-      - icon: github
-        href: https://github.com/quarto-dev/quarto-cli
-        aria-label: GitHub
-      - icon: rss
-        href: https://masteringdata.ai/src/blog/index.xml
-        aria-label: Blog RSS     
-    right: |
-      Copyright &copy; 2023 Daniel Kapitan. 
-    
+      [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org).   
+
 format:
   html:
     page-layout: full

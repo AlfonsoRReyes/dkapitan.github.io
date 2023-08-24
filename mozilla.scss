@@ -31,6 +31,10 @@ $navbar-padding-x: null;
     font-size: 1.2rem
 }
 
+div.nav-footer-center {
+    font-family: $zilla-slab;
+}
+
 div.quarto-post .body .listing-subtitle {
     font-family: $zilla-slab;
     font-weight: 300;
@@ -64,8 +68,8 @@ $navbar-hl: $black;
 $sidebar-bg: $white;
 $sidebar-fg: $black;
 $sidebar-hl: $warm-red;
-$footer-bg: $light-grey;
-$footer-fg: $black;
+$footer-bg: $white;
+$footer-fg: $dark-grey;
 
 $link-color: $warm-red;
 

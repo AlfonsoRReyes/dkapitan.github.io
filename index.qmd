@@ -1,4 +1,5 @@
 ---
+sidebar: true
 toc: false
 ---
 
@@ -12,7 +13,7 @@ toc: false
   </div>
 </div>
 <p class="lead">
-   <small class="text-muted">APPLIED AI &emsp; | &emsp; DATA-CENTRIC AI &emsp; | &emsp; COACHING & PUBLIC SPEAKING</small>
+   <small class="text-muted">DATA-CENTRIC ARCHITECTURE &emsp; | &emsp; APPLIED AI &emsp; | &emsp; COACHING & PUBLIC SPEAKING</small>
 </p>
 <style type="text/css">
 .lead {
@@ -45,7 +46,7 @@ toc: false
 :::
 
 ::: {.g-col-8}
-### "As a data scientist and AI expert I can help you create sustainable change with digital technologies."
+### "As a data architect and AI expert I can help you create sustainable change with digital technologies."
 :::
 
 ::: {.g-col-2}

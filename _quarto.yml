@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dr Daniel Kapitan | Data-centric AI | Applied AI | Coaching & Public Speaking"
+  title: "Dr Daniel Kapitan | Data-centric AI | Applied AI | Coaching & Mentoring | Masterclasses & Public Speaking"
   site-url: https://masteringdata.ai
   search:
     location: sidebar

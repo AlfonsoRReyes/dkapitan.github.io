@@ -4,7 +4,7 @@ toc: false
 about:
     id: about-me
     template: solana
-    image: ../images/vka-profile.png
+    image: /images/vka-profile.png
 ---
 
 ::: {.container-fluid}

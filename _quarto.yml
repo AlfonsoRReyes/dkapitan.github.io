@@ -13,7 +13,7 @@ website:
     pinned: false
     collapse-below: md
   sidebar:
-    logo: images/logo-dr-daniel-kapitan.png
+    logo: /images/logo-dr-daniel-kapitan.png
     style: floating
     tools:
       - icon: linkedin
@@ -69,6 +69,3 @@ format:
 
 execute: 
   freeze: auto
-
-# filters:
-#   - nutshell

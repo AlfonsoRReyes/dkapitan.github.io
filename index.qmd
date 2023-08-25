@@ -52,7 +52,7 @@ How? Read on.
 
 <br><br>
 
-:::: {.container}
+:::: {.container-fluid}
 ::: {.grid}
 ::: {.g-col-8}
 
@@ -70,6 +70,7 @@ Data sit at the core of digital business transformation. As machine learning alg
 ::::
 
 <br><br>
+
 
 :::: {.container}
 ::: {.grid}

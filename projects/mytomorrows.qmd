@@ -1,0 +1,9 @@
+---
+title: MyTomorrows TrialSearch AI
+description: |
+    Pre-screening of patient eligibility for clinical trials using large language models.
+image: /images/mytomorrows.png
+categories: [english, generative AI, healthcare]
+---
+
+Story about MyTomorrows ...

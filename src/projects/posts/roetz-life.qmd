@@ -1,9 +1,0 @@
----
-title: Roetz Life
-description: |
-    Coaching and desiging of new data platform for the Roetz Life circular e-bike.
-image: /images/roetz-life.jpg
-categories: [english, data architecture, sustainability]
----
-
-Story about Roetz

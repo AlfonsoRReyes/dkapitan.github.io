@@ -29,28 +29,28 @@ website:
     background: light
     contents:
       - section: "Projects"
-        href: src/projects/index.qmd
+        href: projects/index.qmd
         contents:
           - text: "PharmAccess"
-            href: src/projects/posts/pharmaccess.qmd"
+            href: projects/posts/pharmaccess.qmd"
           - text: "MyTomorrows"
-            href: src/projects/posts/mytomorrows.qmd"
+            href: projects/posts/mytomorrows.qmd"
           - text: "Roetz Life"
-            href: src/projects/posts/roetz-life.qmd"
+            href: projects/posts/roetz-life.qmd"
           - text: "Blue Radix"
-            href: src/projects/posts/blue-radix.qmd"
+            href: projects/posts/blue-radix.qmd"
           - text: "Amphia Sensium"
-            href: src/projects/posts/amphia-sensium.qmd"
+            href: projects/posts/amphia-sensium.qmd"
           - text: "HAS Green Academy"
-            href: src/projects/posts/has.qmd"
+            href: projects/posts/has.qmd"
           - text: "Sensire"
-            href: src/projects/posts/sensire.qmd"
+            href: projects/posts/sensire.qmd"
       - text: "Blog"
-        href: src/blog/index.qmd
+        href: blog/index.qmd
       - text: "Book an appointment"
         href: appointment/index.qmd
       - text: "Company details"
-        href: src/contact.qmd
+        href: contact.qmd
   page-footer:
     center: |
       Copyright &copy; 2023 Daniel Kapitan.<br>

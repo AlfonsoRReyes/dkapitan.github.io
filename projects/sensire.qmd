@@ -1,0 +1,9 @@
+---
+title: Sensire
+description: |
+    Coaching a data science team during the design and implementation of a state-of-the-art data platform for elderly and home care.
+image: /images/sensire.jpg
+categories: [english, data architecture, healthcare]
+---
+
+Story about Sensire

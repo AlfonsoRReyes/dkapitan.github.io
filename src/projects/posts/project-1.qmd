@@ -1,0 +1,12 @@
+---
+title: MyTomorrows TrialSearch AI
+description: |
+    Pre-screening of patient eligibility for clinical trials using large language models.
+author: Daniel Kapitan
+date: 2023-03-10
+date-format: short
+image: /images/trialsearch-ai.jpg
+categories: [english, generative AI, healthcare]
+---
+
+Story about MyTomorrows ...

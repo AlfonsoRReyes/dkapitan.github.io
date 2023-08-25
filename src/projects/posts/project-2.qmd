@@ -1,0 +1,12 @@
+---
+title: PharmAccess Foundation
+description: |
+    Demonstrating fair data sharing through health data commons in sub-Saharan Africa as a catalyst for realising universal health care.
+author: Daniel Kapitan
+date: 2022-09-01
+date-format: short
+image: /images/pharmaccess-momcare-graphic.jpg
+categories: [english, data architecture, healthcare]
+---
+
+Story about data commons in Africa ...

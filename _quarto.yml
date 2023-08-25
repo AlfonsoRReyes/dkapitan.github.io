@@ -31,14 +31,26 @@ website:
       - section: "Projects"
         href: src/projects/index.qmd
         contents:
-          - src/projects/project-1.qmd
-          - src/projects/project-2.qmd
+          - text: "PharmAccess"
+            href: src/projects/posts/pharmaccess.qmd"
+          - text: "MyTomorrows"
+            href: src/projects/posts/mytomorrows.qmd"
+          - text: "Roetz Life"
+            href: src/projects/posts/roetz-life.qmd"
+          - text: "Blue Radix"
+            href: src/projects/posts/blue-radix.qmd"
+          - text: "Amphia Sensium"
+            href: src/projects/posts/amphia-sensium.qmd"
+          - text: "HAS Green Academy"
+            href: src/projects/posts/has.qmd"
+          - text: "Sensire"
+            href: src/projects/posts/sensire.qmd"
       - text: "Blog"
         href: src/blog/index.qmd
       - text: "About me"
         href: src/about.qmd
       - text: "Book an appointment"
-        href: src/calendar.qmd
+        href: appointment/index.qmd
       - text: "Company details"
         href: src/contact.qmd
   page-footer:

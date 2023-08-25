@@ -1,6 +1,10 @@
 ---
 sidebar: true
 toc: false
+about:
+    id: about-me
+    template: solana
+    image: ../images/vka-profile.png
 ---
 
 ::: {.container-fluid}
@@ -39,25 +43,10 @@ toc: false
 ```
 :::
 
-:::: {.container}
-::: {.grid}
-
-:::{.g-col-2}
-:::
-
-::: {.g-col-8}
-### "As a data architect and AI expert I can help you create sustainable change with digital technologies."
-:::
-
-::: {.g-col-2}
-:::
-
-:::
-::::
 # 
 Many people continue to have high expections of what data & AI can bring. Yet, the majority of organizations struggle to capture real value from  data and AI-driven innovations. Studies have shown that up to 95% of such innovations never make it past the proof-of-concept stage into full-scale operations.
 
-The key towards creating sustainable change with digital technologies lies in increasing your the data literacy of yourself and your organization, such that applications of AI can be developed in the right context. As a data architect and AI expert I can help you.
+The key towards creating sustainable change with digital technologies lies in increasing your the data literacy of yourself and your organization, such that applications of AI can be developed in the right context. How? Read on.
 
 <br><br>
 
@@ -155,6 +144,50 @@ TO DO: add logos Skipr, AKD boeklancering, DHD, EAISI, Hooghiemstra & Partners
 
 TO DO: add logos Nederlandse Vereniging van Ziekenhuis Apothekers, Mobile Healthcare Congres, Data-Driven Healthcare Congres, Samen Digitaal Belgie
 
+
+# About me
+
+:::: {.container}
+::: {.grid}
+
+:::{.g-col-2}
+:::
+
+::: {.g-col-8}
+### "As a data architect and AI expert I can help you create sustainable change with digital technologies."
+:::
+
+::: {.g-col-2}
+:::
+
+:::
+::::
+
+<br><br>
+
+:::{#about-me}
+Dr Daniel Kapitan (1973) is a well-rounded data scientist and strategic advisor with years of experience in the field of data, machine learning and digital transformation. His knowledge can help companies to identify how to use AI, and how to integrate this into business processes, roles, and day-to-day operations. He aims to create sustainable change in organizations by systematically engineering data that is required for new AI applications.
+
+With a PhD in physics from University of Oxford and currently Fellow at the Eindhoven AI Systems Institute (EAISI), Daniel has a strong scientific grounding in the field. He speaks authoritatively about data-driven transformation programs, reducing complexity to ‘informed simplicity’ for even the most challenging data projects. By combining data and AI know-how with industry expertise, he is capable of bringing about end-to-end business transformation for mid-sized companies, government organizations and scale-ups.
+
+Daniel starts when organizations are ready to embark on their digital journey, and finishes when people are enabled to continue to work with data and AI by themselves.
+
+### Roles
+Daniel works as an advisor, architect, lecturer, applied researcher and mentor. He is one of the few specialists in the Netherlands who has the unique combination of corporate experience, scientific research and executive education. Through these various roles he aims to apply ‘AI for good’. He lectures on data and AI, publishes regularly and is an active member of the Data Sharing Coalition to foster data solidarity and secure data sharing for tackling societal issues.
+
+### Areas of expertise
+Explainable AI, physics-informed machine learning, data-centric AI, data architecture, federated learning, knowledge science, data commons.
+
+### Industry focus
+Healthcare, public sector, as well as scale-ups for which data and AI are a core element of their strategy.
+:::
+
+### Contact details
+
+__email:__ [daniel@kapitan.net](mailto:daniel@kapitan.net) <br>
+__mobile:__ +31 (0)6 2409 7295
+
+#
 ```{=html}
-<a href="src/calendar.html" class="btn btn-primary btn-lg" type="button">Book an appointment</a>
+<a href="/appointment" class="btn btn-primary btn-lg" type="button">Book an appointment</a>
 ```

@@ -56,11 +56,21 @@ toc: false
 ::::
 
 # 
-I am well-rounded data scientist and strategic advisor with years of experience in the field of data, machine learning and digital transformation. With this knowledge, I help organizations to identify how to use AI, and how to integrate this into business processes, roles, and day-to-day operations. My personal drive is to create sustainable change by systematically engineering data that is required for new AI applications.
+Many people continue to have high expections of what data & AI can bring. Yet, the majority of organizations struggle to capture real value from  data and AI-driven innovations. Studies have shown that up to 95% of such innovations never make it past the proof of concept stage into full-scale operations.
 
-I work with organizations of all sizes and across a variety of industries, and I pride myself on my collaborative and client-focused approach. I believe that success is achieved through close collaboration, and I work closely with my clients to ensure that we achieve the best possible results together.
+The key towards creating sustainable change with digital technologies lies in increasing your the data literacy of yourself and your organization, such that applications of AI can be developed in the right context. As a data architect and AI expert I can help you 
 
-Whether you are looking to implement machine learning for the first time or seeking to take your data analytics to the next level, I am here to help. Contact me today to learn more about how I can help your organization harness the power of machine learning and AI to achieve your strategic objectives.
+### Applied AI
+...
+
+
+### Data-centric AI
+...
+
+
+### Coaching and public speaking
+...
+
 
 # 
 ```{=html}

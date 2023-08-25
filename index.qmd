@@ -17,7 +17,7 @@ about:
   </div>
 </div>
 <p class="lead">
-   <small class="text-muted">DATA-CENTRIC AI &emsp; | &emsp; APPLIED AI &emsp; | &emsp; COACHING & PUBLIC SPEAKING</small>
+   <small class="text-muted">DATA-CENTRIC AI &emsp; | &emsp; APPLIED AI &emsp; | &emsp; COACHING & MENTORING &emsp; | &emsp; MASTERCLASSES & PUBLIC SPEAKING</small>
 </p>
 <style type="text/css">
 .lead {
@@ -44,9 +44,11 @@ about:
 :::
 
 # 
-Many people continue to have high expections of what data & AI can bring. Yet, the majority of organizations struggle to capture real value from  data and AI-driven innovations. Studies have shown that up to 95% of such innovations never make it past the proof-of-concept stage into full-scale operations.
+Many people continue to have high expections of what data & AI can bring. Yet, the majority of organizations struggle to capture real value from data and AI-driven innovations. Studies have shown that up to 95% of such innovations never make it past the proof-of-concept stage into full-scale operations.
 
-The key towards creating sustainable change with digital technologies lies in increasing your the data literacy of yourself and your organization, such that applications of AI can be developed in the right context. How? Read on.
+The key towards creating sustainable change with digital technologies lies in increasing your own data literacy and understanding of AI and that of your organization. AI is not sci-fi, we need to demystify digital technologies. That way, professionals and domain experts can obtain strategic autonomy to reason, think, imagine en create applications of AI themselves. Technology can only be of value when it is put within the appropriate business, societal or human context. 
+
+How? Read on.
 
 <br><br>
 
@@ -91,7 +93,7 @@ The possibilities of AI are virtually endless and can fundamentally change the w
 ::: {.g-col-8}
 ### Coaching & mentoring
 
-Data and AI will fundamentally change your business, your organisation and your way of working. And not all employees or staff are immediately ready for this. We teach, coach and mentor professionals who require a better understanding of data and artificial intelligence. And make them both comfortable and topic-specialists. For larger audiences, we create workshops or provide key-note speakers so more and more professionals obtain a better understanding of data and AI.
+Data and AI will fundamentally change your business, your organisation and your way of working. And not all employees or staff are immediately ready for this. We teach, coach and mentor professionals who require a better understanding of data and artificial intelligence. And make them both comfortable and topic-specialists. We specialise in bespoke masterclasses, built around your organisation and focussing on how AI can impact your line business.
 
 <small class="text-muted">One-the-job coaching for individuals and teams | Masterclasses for management and executives | Technical deep-dives for experts.</small> 
 :::
@@ -102,47 +104,25 @@ Data and AI will fundamentally change your business, your organisation and your 
 :::
 ::::
 
+:::: {.container}
+::: {.grid}
+::: {.g-col-4}
+![](images/noun-lecture.png)
+:::
 
-```{=html}
-<div class="p-5 mb-4 bg-light rounded-3 bgimg2">
-  <br><br><br><br>
-  <div class="container-fluid py-5">
-    <h1 class="display-5 fw-bold">Masterclasses<br>& public speaking</h1>
-  </div>
-</div>
+::: {.g-col-8}
+### Masterclasses & public speaking
 
-<style type="text/css">
-.lead {
-    font-family: "Zilla Slab";
-    text-align: center;
-}
+We provide masterclasses on topics related to data & AI. It provides a fundamental basis from basics to concepting, even implementation. For larger audiences, we create workshops or provide key-note speakers so more and more professionals obtain a better understanding of data and AI.
 
-.bgimg2 {
-  background-image: url('images/hero-speaking.png');
-}
-.hero-quote {
-  font-family: "Zilla Slab";
-  font-color: white;
-  color: white;
-}
+TO DO: add logos Skipr, AKD boeklancering, DHD, EAISI, Hooghiemstra & Partners, Nederlandse Vereniging van Ziekenhuis Apothekers, Mobile Healthcare Congres, Data-Driven Healthcare Congres, Samen Digitaal Belgie
 
-.fw-bold {
-  /* font-family: "Zilla Slab Highlight"; */
-  font-style: bold !important;
-  color: white !important;
-}
-</style>
-```
+:::
+:::
+::::
+
 <br>
 
-### Masterclass
-We provide masterclasses on topics related to data & AI. It provides a fundamental basis from basics to concepting, even implementation. More specifically we specialise in bespoke masterclasses, built around your organisation and focussing on how AI  can change your business.
-
-TO DO: add logos Skipr, AKD boeklancering, DHD, EAISI, Hooghiemstra & Partners
-
-### Public speaking
-
-TO DO: add logos Nederlandse Vereniging van Ziekenhuis Apothekers, Mobile Healthcare Congres, Data-Driven Healthcare Congres, Samen Digitaal Belgie
 
 
 # About me

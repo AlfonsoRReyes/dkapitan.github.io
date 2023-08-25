@@ -47,8 +47,6 @@ website:
             href: src/projects/posts/sensire.qmd"
       - text: "Blog"
         href: src/blog/index.qmd
-      - text: "About me"
-        href: src/about.qmd
       - text: "Book an appointment"
         href: appointment/index.qmd
       - text: "Company details"

@@ -49,10 +49,9 @@ Many people continue to have high expections of what data & AI can bring. Yet, t
 The key towards creating sustainable change with digital technologies lies in increasing your own data literacy and understanding of AI, and that of your organization. AI is not sci-fi, we need to demystify digital technologies. That way, professionals and domain experts can obtain strategic autonomy to reason, think, imagine en create applications of AI themselves. Technology can only be of value when it is put within the appropriate business, societal or human context. 
 
 How? Read on.
+<br>
 
-<br><br>
-
-:::: {.container-fluid}
+:::: {#light-grey-background}
 ::: {.grid}
 ::: {.g-col-8}
 
@@ -69,10 +68,9 @@ Data sit at the core of digital business transformation. As machine learning alg
 :::
 ::::
 
-<br><br>
+<br>
 
-
-:::: {.container}
+:::: {#applied-ai}
 ::: {.grid}
 ::: {.g-col-4}
 ![](images/generative-ai.png)
@@ -87,9 +85,7 @@ The possibilities of AI are virtually endless and can fundamentally change the w
 :::
 ::::
 
-<br><br>
-
-:::: {.container}
+:::: {#light-grey-background}
 ::: {.grid}
 ::: {.g-col-8}
 ### Coaching & mentoring
@@ -122,7 +118,19 @@ TO DO: add logos Skipr, AKD boeklancering, DHD, EAISI, Hooghiemstra & Partners, 
 :::
 ::::
 
+![](/images/logo-board.png)
+
 <br>
+```{=html}
+<style>
+#light-grey-background {
+  padding-top: 35px;
+  padding-left: 35px;
+  background-color: #e7e5e2;
+}
+
+</style>
+```
 
 
 

@@ -4,7 +4,7 @@ subtitle: Interview door Harm Bodewes en Jurjen Helmus
 description: Een heerlijk Socratisch gesprek over datasolidariteit.
 author: Daniel Kapitan
 date: 2023-05-18
-date-format: short
+date-format: "MMM YYYY"
 image: /images/podcast-de-dataloog.jpg
 html:
     code-fold: true

@@ -4,7 +4,7 @@ subtitle: Opinie gepubliceerd op socialevraagstukken.nl
 description: De Autoriteit Persoonsgegevens legde de Belastingdienst onlangs een boete op voor het gebruik van de ‘fraudesignaleringsvoorziening’, waarin jarenlang illegaal persoonsgegevens verwerkt werden. Wat zijn knelpunten van algoritmegebruik bij overheidstoezicht en wat nodig is om wel tot eerlijke, niet-discriminerende algoritmen te komen.
 author: Daniel Kapitan
 date: 2022-04-25
-date-format: short
+date-format: "MMM YYYY"
 image: /images/alexander-grey-TZZwC_xsClY-unsplash.jpg
 html:
     code-fold: true

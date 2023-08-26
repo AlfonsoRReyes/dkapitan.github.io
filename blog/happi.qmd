@@ -4,7 +4,7 @@ description: |
   Kunnen we chronische patiënten helpen om gezonder te blijven? Die vraag was het vertrekpunt voor internisten Joop Arends (UMC Utrecht) en Guido van den Berk (OLVG) om samen met E-sites de Happi app te ontwikkelen.
 author: Daniel Kapitan
 date: 2019-09-23
-date-format: short
+date-format: "MMM YYYY"
 image: /images/happi-app-datalab-scaled-1-2048x652.png
 categories: [nederlands, healthcare]
 ---

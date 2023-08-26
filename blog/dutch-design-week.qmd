@@ -4,7 +4,7 @@ description: |
    Het idee van data donorschap dwaalt al een tijdje in mijn hoofd. In de afgelopen jaren zie ik het vaker als idee genoemd worden, als oplossing om op een verantwoorde manier data te delen voor maatschappelijke vraagstukken. Tijdens de Dutch Design Week ging ik hierover in gesprek bij de Waag.
 author: Daniel Kapitan
 date: 2020-10-18
-date-format: short
+date-format: "MMM YYYY"
 image: /images/ddw19-health-embassy.jpg
 categories: [nederlands, health data commons]
 ---

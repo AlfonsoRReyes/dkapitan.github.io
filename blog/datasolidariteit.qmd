@@ -4,10 +4,8 @@ subtitle: Opinie gepubliceerd op socialevraagstukken.nl
 description: Het debat over het delen van persoonsgegevens gaat al te vaak over privacy. We moeten het meer hebben over de maatschappelijke waarde van data delen, over datasolidariteit.
 author: Daniel Kapitan
 date: 2022-12-27
-date-format: short
+date-format: "MMM YYYY"
 image: /images/tim-mossholder-bo3SHP58C3g-unsplash.jpeg
-html:
-    code-fold: true
 categories: [nederlands, data commons, data solidarity]
 ---
 Privacy domineert nog steeds het debat rondom het delen en hergebruik van persoonsgegevens, zoals blijkt uit de discussie rondom het verstrekken van vaccinatiegegevens door het RIVM aan het CBS. Maar privacy is het probleem niet.

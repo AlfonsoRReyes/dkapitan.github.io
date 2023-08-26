@@ -4,7 +4,7 @@ description: |
    Ingezonden brief aan NRC naar aanleiding van discussie over gebruik van algoritmes voor opsporing van fraude.
 author: Daniel Kapitan
 date: 2018-05-19
-date-format: short
+date-format: "MMM YYYY"
 image: /images/nrc-open-source.jpg
 categories: [nederlands, responsible ai]
 ---

@@ -4,7 +4,7 @@ subtitle: Geinterviewed door Joop Snijders en Niels Naglé
 description: Sinds tijden weer een _live_ gesprek!
 author: Daniel Kapitan
 date: 2022-07-05
-date-format: short
+date-format: "MMM YYYY"
 image: /images/podcast-aitoday.jpg
 html:
     code-fold: true

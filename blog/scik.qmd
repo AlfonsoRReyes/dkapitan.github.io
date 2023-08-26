@@ -4,7 +4,7 @@ description: |
    Toen corona losbarstte, was er weinig zicht op de lokale verspreiding van het coronavirus. De Stichting Corona in Kaart ontwikkelde daarom een regionaal data- en informatieplatform en realiseerde een pilot in Rotterdam. Helaas lukte het niet om het platform in de lucht te houden en op nationaal niveau uit te rollen.
 author: Daniel Kapitan
 date: 2021-03-01
-date-format: short
+date-format: "MMM YYYY"
 image: /images/instituut-voor-briljante-mislukkingen.png
 categories: [nederlands, health data commons, data solidarity]
 ---

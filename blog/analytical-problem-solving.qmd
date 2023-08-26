@@ -5,7 +5,7 @@ description: |
     I co-authored a peer-reviewed paper that compares the different modeling approaches for analytical problem solving.
 author: Daniel Kapitan
 date: 2022-03-10
-date-format: short
+date-format: "MMM YYYY"
 image: /images/logo-american-statistician.png
 categories: [english, modeling]
 ---

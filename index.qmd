@@ -44,7 +44,7 @@ about:
 :::
 
 # 
-Many people continue to have high expections of what data & AI can bring. Yet, the majority of organizations struggle to capture real value from data and AI-driven innovations. Studies have shown that up to 95% of such innovations never make it past the proof-of-concept stage into full-scale operations.
+Many people continue to have high expections of what data and AI can bring. Yet, the majority of organizations struggle to capture real value from data and AI-driven innovations. Studies have shown that up to 95% of such innovations never make it past the proof-of-concept stage into full-scale operations.
 
 The key towards creating sustainable change with digital technologies lies in increasing your own data literacy and understanding of AI, and that of your organization. AI is not sci-fi, we need to demystify digital technologies. That way, professionals and domain experts can obtain strategic autonomy to reason, think, imagine en create applications of AI themselves. Technology can only be of value when it is put within the appropriate business, societal or human context. 
 
@@ -63,7 +63,7 @@ Data sit at the core of digital business transformation. As machine learning alg
 :::
 
 :::{.g-col-4}
-![](images/noun_timeline_3087192_L.png)
+![](images/noun-timeline-inverse.png)
 :::
 :::
 ::::
@@ -96,10 +96,12 @@ Data and AI will fundamentally change your business, your organisation and your 
 :::
 
 ::: {.g-col-4}
-![](images/noun-mentor-1132387.png)
+![](images/noun-mentor-inverse.png)
 :::
 :::
 ::::
+
+<br>
 
 :::: {.container}
 ::: {.grid}
@@ -118,15 +120,15 @@ TO DO: add logos Skipr, AKD boeklancering, DHD, EAISI, Hooghiemstra & Partners, 
 :::
 ::::
 
-![](/images/logo-board.png)
 
-<br>
 ```{=html}
 <style>
 #light-grey-background {
   padding-top: 35px;
   padding-left: 35px;
-  background-color: #e7e5e2;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: .3rem !important;
 }
 
 </style>
@@ -152,7 +154,7 @@ TO DO: add logos Skipr, AKD boeklancering, DHD, EAISI, Hooghiemstra & Partners, 
 :::
 ::::
 
-<br><br>
+<br><br><br>
 
 :::{#about-me}
 Dr Daniel Kapitan (1973) is a well-rounded data scientist and strategic advisor with years of experience in the field of data, machine learning and digital transformation. His knowledge can help companies to identify how to use AI, and how to integrate this into business processes, roles, and day-to-day operations. He aims to create sustainable change in organizations by systematically engineering data that is required for new AI applications.
@@ -168,8 +170,15 @@ Daniel works as an advisor, architect, lecturer, applied researcher and mentor. 
 Explainable AI, physics-informed machine learning, data-centric AI, data architecture, federated learning, knowledge science, data commons.
 
 ### Industry focus
-Healthcare, public sector, as well as scale-ups for which data and AI are a core element of their strategy.
+Healthcare, public sector, OEMs as well as scale-ups for which data and AI are a core element of their strategy.
+
 :::
+
+### Previous clients
+
+![](/images/logo-board.png)
+
+
 
 ### Contact details
 

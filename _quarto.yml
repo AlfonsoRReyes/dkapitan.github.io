@@ -7,14 +7,17 @@ website:
   site-url: https://masteringdata.ai
   search:
     location: sidebar
-    type: textbox
+    type: overlay
   navbar:
+    logo: /images/logo-dr-daniel-kapitan.png
     title: false
     pinned: false
     collapse-below: md
+
   sidebar:
-    logo: /images/logo-dr-daniel-kapitan.png
-    style: floating
+    style: docked  
+    collapse-level: 1
+    background: light
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/dkapitan/
@@ -23,28 +26,26 @@ website:
         href: https://github.com/dkapitan
         text: "GitHub profile"
       - icon: rss
-        href: https://masteringdata.ai/src/blog/index.xml
+        href: https://masteringdata.ai/blog/index.xml
         text: "RSS feed"
-    collapse-level: 1
-    background: light
     contents:
       - section: "Projects"
         href: projects/index.qmd
         contents:
           - text: "PharmAccess"
-            href: projects/posts/pharmaccess.qmd"
+            href: projects/pharmaccess.qmd"
           - text: "MyTomorrows"
-            href: projects/posts/mytomorrows.qmd"
+            href: projects/mytomorrows.qmd"
           - text: "Roetz Life"
-            href: projects/posts/roetz-life.qmd"
+            href: projects/roetz-life.qmd"
           - text: "Blue Radix"
-            href: projects/posts/blue-radix.qmd"
+            href: projects/blue-radix.qmd"
           - text: "Amphia Sensium"
-            href: projects/posts/amphia-sensium.qmd"
+            href: projects/amphia-sensium.qmd"
           - text: "HAS Green Academy"
-            href: projects/posts/has.qmd"
+            href: projects/has.qmd"
           - text: "Sensire"
-            href: projects/posts/sensire.qmd"
+            href: projects/sensire.qmd"
       - text: "Blog"
         href: blog/index.qmd
       - text: "Book an appointment"
@@ -52,10 +53,24 @@ website:
       - text: "Company details"
         href: contact.qmd
   page-footer:
-    center: |
-      Copyright &copy; 2023 Daniel Kapitan.<br>
+    left: |
+      <br>
+      Copyright &copy; 2023 Daniel Kapitan<br>
       This website was created with 
-      [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org).   
+      [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)
+
+    center: |
+      <br>
+      DWMM Holding B.V.<br>
+      Marie Baronstraat 15<br>
+      3056 AA  ROTTERDAM
+    
+    right: |
+      <br>
+      __Chamber of Commerce (KvK):__ 52920259<br>
+      __RSIN:__ 850665851<br>
+      __IBAN:__ NL47 KNAB 0259 5268 27<br>
+      __Terms & Conditions__ in [Dutch](/resources/230901-algemene-voorwaarden-%40kapitan.pdf)<br>
 
 format:
   html:

@@ -23,16 +23,15 @@ $navbar-default-font: $zilla-slab;
 $spacer: 1rem;
 $navbar-padding-y: $spacer * 1.5;
 $navbar-padding-x: null;
-.navbar, .sidebar, .quarto-secondary-nav {
-    font-family: $zilla-slab;
-}
 
 .sidebar-navigation .sidebar-item {
     font-size: 1.2rem
 }
 
-div.nav-footer-center {
+.nav-footer-left, .nav-footer-center, .nav-footer-right {
     font-family: $zilla-slab;
+    font-size: 1rem !important;
+    text-align: left !important;
 }
 
 div.quarto-post .body .listing-subtitle {
@@ -68,8 +67,8 @@ $navbar-hl: $black;
 $sidebar-bg: $white;
 $sidebar-fg: $black;
 $sidebar-hl: $warm-red;
-$footer-bg: $white;
-$footer-fg: $dark-grey;
+$footer-bg: $black;
+$footer-fg: $light-grey;
 
 $link-color: $warm-red;
 
@@ -77,10 +76,9 @@ $link-color: $warm-red;
     background-color: #ff4f5e !important;
     border-color: #ff4f5e !important;
     font-family: "Inter";
-  }
+}
 
-//sidebar
-  div.sidebar-item-container {
+div.sidebar-item-container {
     &:hover {
         color: $warm-red !important;
     }
@@ -96,4 +94,28 @@ div.sidebar-item-container .sidebar-link>code {
 .quarto-listing-category .category.active {
     font-weight: 600;
     color: $warm-red;
+}
+
+/*--- scss:defaults ---*/
+#quarto-content>* {
+    padding-top: 0px;
+}
+
+.navbar, .sidebar, .quarto-secondary-nav {
+    font-family: $zilla-slab;
+    padding-bottom: 0.5rem;
+}
+
+// .nav-footer-center, .nav-footer-right {
+//     text-align: left !important;
+// }
+
+/*-- scss:rules --*/
+// sidebar without right border
+.sidebar.sidebar-navigation:not(.rollup) {
+    border-right: 0px solid #ffffff !important
+}
+
+.sidebar.sidebar-navigation>* {
+    padding-top: 0.5em;
 }

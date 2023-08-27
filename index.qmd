@@ -113,7 +113,7 @@ The possibilities of AI are virtually endless and can fundamentally change the w
 
 ### Coaching & mentoring
 
-Data and AI will fundamentally change your business, your organisation and your way of working. And not all employees or staff are immediately ready for this. We teach, coach and mentor professionals who require a better understanding of data and artificial intelligence. And make them both comfortable and topic-specialists. We specialise in bespoke masterclasses, built around your organisation and focussing on how AI can impact your line business.
+Data and AI will change your business and your way of working. And not all employees or staff are immediately ready for this. We teach, coach and mentor professionals who require a better understanding of data and artificial intelligence. And make them both comfortable and topic-specialists. We specialise in bespoke masterclasses, built around your organisation and focussing on how AI can impact your line business.
 
 <small class="text-muted">One-the-job coaching for individuals and teams | Challenge-based learning | Technical deep-dives for experts</small> 
 :::
@@ -134,7 +134,7 @@ Data and AI will fundamentally change your business, your organisation and your 
 
 ::: {.g-col-8}
 ### Masterclasses & public speaking
-We provide masterclasses on topics related to data & AI. It provides a fundamental basis from basics to concepting, even implementation. For larger audiences, we create workshops or provide key-note speakers so more and more professionals obtain a better understanding of data and AI.
+We provide masterclasses on topics related to data & AI. It provides a fundamental basis from basics to concepting, even implementation. For larger audiences, we create workshops or provide keynotes so more and more professionals obtain a better understanding of data and AI.
 
 <small class="text-muted">Keynote speeches | Masterclasses for management and executives | Inspirational lectures</small>
 :::

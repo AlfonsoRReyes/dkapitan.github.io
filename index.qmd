@@ -4,7 +4,7 @@ toc: false
 about:
     id: about-me
     template: solana
-    image: /images/vka-profile.png
+    image: images/vka-profile.png
 ---
 
 ::: {.container-fluid}
@@ -140,7 +140,7 @@ We provide masterclasses on topics related to data & AI. It provides a fundament
 <br>
 
 :::: {#logo-board}
-![](/images/logo-board.png)
+[![](/images/logo-board.png)](projects/index.qmd)
 :::
 
 <br>

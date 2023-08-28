@@ -1,2 +1,2 @@
-# quarto-mozilla-design
-Quarto website template using Mozilla design
+# kapitan.net
+My personal Quarto website, using mozilla.design style guide.

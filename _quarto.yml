@@ -14,7 +14,6 @@ website:
     title: false
     pinned: false
     collapse-below: md
-
   sidebar:
     style: docked  
     collapse-level: 1
@@ -57,14 +56,12 @@ website:
       Copyright &copy; 2023 Daniel Kapitan<br>
       This website was created with 
       [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)
-
     center: |
       <br>
       __Postal address:__<br>
       DWMM Holding B.V.<br>
       Marie Baronstraat 15<br>
       3056 AA  ROTTERDAM
-    
     right: |
       <br>
       __Chamber of Commerce (KvK):__ 52920259<br>

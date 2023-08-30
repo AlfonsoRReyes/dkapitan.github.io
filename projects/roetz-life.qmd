@@ -1,7 +1,7 @@
 ---
 title: Roetz Life
 description: |
-    Desiging a state-of-the art data platform for the Roetz Life circular e-bike.
+    Designing a state-of-the art data platform for the Roetz Life circular e-bike.
 image: /images/roetz-life.jpg
 categories: [data-centric ai, coaching]
 ---

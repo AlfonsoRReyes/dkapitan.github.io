@@ -3,7 +3,7 @@ title: Tian de légumes
 description: |
     Recept uit de film Ratatouile, van Janneke Vreugdenhil.
 image: ./images/tian-de-legumes.png
-categories: []
+categories: [vegetarisch]
 ---
 
 :::{.grid}

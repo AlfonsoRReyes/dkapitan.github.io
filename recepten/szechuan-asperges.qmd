@@ -3,7 +3,7 @@ title: Szechuan asperges
 description: |
     Een fusion gerecht van Janneke Vreugdenhil uit het NRC Handelsblad van 20 mei 2023.
 image: ./images/szechuan-asperges.png
-categories: [vegetarian]
+categories: [vegetarisch]
 ---
 
 :::{.grid}

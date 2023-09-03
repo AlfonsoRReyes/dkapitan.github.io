@@ -3,7 +3,7 @@ title: Zoete aardappel stamppot
 description: |
     Een favoriet van Hello Fresh.
 image: ./images/bloemkool-ovenschotel-met-gehakt.webp
-categories: []
+categories: [vegetarisch]
 ---
 
 :::{.grid}

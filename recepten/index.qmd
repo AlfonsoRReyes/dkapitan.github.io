@@ -1,5 +1,5 @@
 ---
-title: Recipes
+title: Recepten
 listing:
     contents: .
     type: grid

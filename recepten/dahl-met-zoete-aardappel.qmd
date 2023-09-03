@@ -3,7 +3,7 @@ title: Dahl met zoete aardappel en kokosmelk
 description: |
     Een favoriet van Hello Fresh.
 image: ./images/dahl-zoete-aardappel.jpg
-categories: []
+categories: [vegetarisch]
 ---
 
 :::{.grid}

@@ -9,7 +9,6 @@ categories: [nederlands, responsible ai]
 ---
 
 Toen ik in 1991 begon aan mijn studie in Leiden, begon iemand in Finland met het schrijven van een nieuw operating systeem. Gewoon voor de lol. De broncode was vanaf het begin openbaar. Anderen waren van harte welkom om mee te doen. Vandaag de dag draait 96% van de grootste servers wereldwijd op Linux. In 1999 ging Red Hat naar de beurs. Zij bewezen daarmee dat het onmogelijke mogelijk is: een bedrijf bouwen op open source software en toch geld verdienen.
-Door: Daniel Kapitan.
 
 Net zoals mijn voorganger in deze column, droom ik van een wereld waarin data niet wordt gezien als een commodity maar als een common pool resource. Een wereld waarin de broncode van algoritmes openbaar is en daarmee toetsbaar voor peer review. Kortom, een wereld waarin de hacking cultuur samenkomt met die van Elinor Ostrom. Helaas staan tussen droom en daad wetten in de weg, en praktische bezwaren.
 

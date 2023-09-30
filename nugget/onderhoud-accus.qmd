@@ -12,3 +12,5 @@ Accu's gaan minder lang mee als je ze te leeg zijn. Daarnaast moet je ervoor zor
 Als de Nugget in stalling staat of lang niet wordt gebruikt, dan moet **je de hoofdschakelaar van de accu uitzetten.**
 
 Daarnaast is het goed om bij langdurig stallen, de accu minimaal 48 uur per maand op te laden.
+
+![](hoofdschakelaar.jpg)

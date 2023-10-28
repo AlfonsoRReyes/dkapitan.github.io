@@ -3,9 +3,9 @@ title: Foto's
 description: |
     Een sfeerimpressie
 image: ./pop-top.jpg
-# filters:
-#     - lightbox
-# lightbox: auto
+filters:
+    - lightbox
+lightbox: auto
 categories: [gebruiksaanwijzing]
 ---
 

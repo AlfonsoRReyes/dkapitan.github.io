@@ -3,7 +3,7 @@ title: Deya's porridge
 description: |
     Terwijl ik op bezoek was in St Neots, kreeg ik dit voorgeschoteld op zondagochtend.
 image: ./images/deyas-porridge.jpeg
-categories: []
+categories: [vegetarisch]
 ---
 
 :::{.grid}

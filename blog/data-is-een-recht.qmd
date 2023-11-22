@@ -5,7 +5,7 @@ description: Vanaf maandag is de Data Governance Verordening van kracht. Data de
 author: Antoinette Vlieger, Daniel Kapitan, Egge van der Poel
 date: 2023-09-20
 date-format: "MMM YYYY"
-image: /images/tim-mossholder-bo3SHP58C3g-unsplash.jpeg
+image: /images/YasminDwiputri-DataHazards.png
 categories: [nederlands, data solidarity]
 ---
 

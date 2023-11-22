@@ -1,8 +1,8 @@
 ---
 title: Whitepaper on privacy-enhancing technologies
-subtitle: Developed by Centre of Excellence – Data Sharing and Cloud
+subtitle: In collaboration with the Centre of Excellence – Data Sharing and Cloud
 description: |
-    I co-authored a whitepaper that discusses several groups of PETs and privacy assessment measures, covering their implementation and value potential in respective use cases.
+    This whitepaper discusses several groups of PETs and privacy assessment measures, covering their implementation and value potential in respective use cases.
 author: Daniel Kapitan
 date: 2023-07-01
 date-format: "MMM YYYY"

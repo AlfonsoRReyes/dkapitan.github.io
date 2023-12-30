@@ -6,7 +6,7 @@ author: Daniel Kapitan
 date: 2021-03-01
 date-format: "MMM YYYY"
 image: /images/instituut-voor-briljante-mislukkingen.png
-categories: [nederlands, health data commons, data solidarity]
+categories: [nederlands, data commons, data solidarity]
 ---
 
 

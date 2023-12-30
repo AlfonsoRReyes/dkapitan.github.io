@@ -1,0 +1,164 @@
+---
+title: Another year, another lifehack
+description: |
+    How to integrate and use fully integrated markdown-based workflow for reading, thinking and writing.
+date: 2023-12-30
+author: Daniel Kapitan
+image: obsidian-setup.png
+toc: true
+format:
+    html:
+        code-fold: true
+filters:
+    - d2
+categories: [english, coding, workflow]
+
+---
+
+::: {.callout-tip}
+## TL;DR
+How to integrate and use [Calibre](https://calibre-ebook.com/), [Quarto](https://quarto.org), [Obsidian](https://obsidian.md), [Syncthing](https://syncthing.net), [reMarkable](https://remarkable.com) to make the most of a fully integrated markdown-based workflow for reading, thinking and writing.
+:::
+
+> __Habit 7: Sharpen the Saw__:
+> 
+> Increase motivation, energy, and work/life balance by making time for renewing activities. ~ _Stephen Covey_
+
+
+
+Keeping things organised and efficient is one of my basic needs. I helps me keep a clear mind and be productive. I have been using the [getting things done method](https://gettingthingsdone.com/what-is-gtd/) for over a decade now, and was one of the early adopters of [Todoist](https://todoist.com/home). In fact, at my current rate of 80 points per week, I expect be become Enlightened somewhere at the beginning of the upcoming [Year of the Dragon](https://en.wikipedia.org/wiki/Dragon_(zodiac)).
+
+![My Karma points in Todoist at the end of 2023](todoist-karma.png){fig-align="left"}
+
+Beyond organising the things I need to do, I have been looking to sharpen my saw for reading and writing, both of which I do a lot. Also here, I switched to a fully digital workflow quite a few years ago: my books now all live in [Calibre](https://calibre-ebook.com/), I take notes on the [reMarkable 2](https://remarkable.com/) and do all of my writing in markdown. Over the years, I have tried many different apps: [Day One](https://dayoneapp.com/),  [iA Writer](ia writer) and even a bare-bones code editor with a GitHub repository hosting an [MkDocs](https://www.mkdocs.org/) site.
+
+But I was never quite satisfied with any of these setups. To address my note-taking needs whilst reading, I tried different tablets with digital pens, but found none of these worked for me because I could not easily get my highlights and notes into my worklow. I even tried the reMarkable mark I when it first came out, but send it back because it lacked the integrations I needed. And when writing content for my lectures, I found myself spending lots of time looking up quotes and references that I had read somewhere. I also found there was just too much friction in getting something published from my note-taking app using a different tool. 
+
+Surely, in this day and age there must be a better way in which we can use digital tools to support our reading, thinking and writing? Surely I should be able to render a website, a pdf - even a Word document if a clients asks for it - using the same markdown content? And indeed, it seems that as of 2022 a number of tools have delivered on the promise of supporting a smooth, fully digital workflow for reading, thinking and writing. In my case, I chose [Obsidian](https://obsidian.md/) and [Quarto](https://posit.co/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/) as my core components.[^alternatives]
+
+## Obsidian, the most flexible note-taking app
+Obsidian is the most flexible note-taking app out there. The key differentiating feature for me is its ability to create graphs of interlinked notes, thereby natively supporting [Andy Matuschak's Evergreen note-taking concept](https://notes.andymatuschak.org/Evergreen_notes). Its vibrant community, with over 1,370 contributed plugins at the time of writing is also a boon, which allows me to integrate it with my other tools, as is described below.
+
+## Quarto for a streamlined publication workflow
+My work as a data scientist and architect relies extensively on code and data analysis.  Python-based notebooks have long provided the capability of merging the paper narrative, the computational code powering the analysis, and the summary plots into a reproducible report. Quarto supports all of this into a streamlined publication workflow that lowers the adoption barrier of the [__"docs as code"__](https://www.writethedocs.org/guide/docs-as-code/) paradigm. With a single command, the notebook text sources (narrative and code) are transformed into a polished publication-ready article in a variety of formats, be it a PDF or dynamic HTML page enabling the reader to interact with the data tables and plots.
+
+![Quarto workflow (source: [Gaël Close](https://gael-close.github.io/posts/2209-tech-writing/2209-tech-writing.html))](quarto-workflow.png)
+
+## Putting it all together, with minimal lock-in
+
+
+The free version doesn't offer cloud storage (more on that later), 
+
+
+It was always a pain having to switch between the different flavours of markdown of all the different tools.  to publish some markdown document, authored in some tool, using a different
+
+
+```{.d2 theme="NeutralGrey" layout="elk" sketch=true}
+MacBook: {
+  near: top-left
+  icon: https://icons.terrastruct.com/tech%2Flaptop.svg
+  icon.near: outside-top-right
+  label.near: top-right
+
+  calibre: {
+    icon: https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png
+    icon.near: outside-top-left
+    label.near: outside-top-right
+    content server
+  }
+
+  Obsidian: {
+    icon: https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg
+    icon.near: outside-top-left
+    label.near: outside-top-right
+
+    calibre
+    d2
+    git
+    scrybble
+  }
+
+  calibre.content server -- Obsidian.calibre
+
+  Syncthing: {
+    icon: https://play-lh.googleusercontent.com/KIy_dqUdZqcsTq4GDstHrHwLRvu60gT3v0p41gw792BC6OxamNhUw2eIy0-LI05qNEA=w240-h480-rw
+    icon.near: outside-top-left
+    label.near: outside-top-right
+
+    ~/calibre: {
+      shape: image
+      icon: https://icons.terrastruct.com/essentials%2F245-folder.svg
+    }
+    ~/obsidian-journal: {
+      shape: image
+      icon: https://icons.terrastruct.com/essentials%2F245-folder.svg
+    }
+  }
+  calibre -- Syncthing.~/calibre
+  Obsidian -- Syncthing.~/obsidian-journal
+}
+
+Pixel: {
+  near: top-right
+  icon: https://icons.terrastruct.com/tech%2F052-smartphone-3.svg
+  icon.near: outside-top-right
+  label.near: top-right
+
+  Moon+ Reader: {
+    shape: image
+    icon: https://play-lh.googleusercontent.com/DSZo9j5cd46iHJNg1WvqQUfxdOiufs4LEnKuwmiY4wzYS-enODO4pYQOEc9auExxkQ=w240-h480-rw
+  }
+
+  Obsidian: {
+    shape: image
+    icon: https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg
+  }
+
+  Syncthing: {
+    icon: https://play-lh.googleusercontent.com/KIy_dqUdZqcsTq4GDstHrHwLRvu60gT3v0p41gw792BC6OxamNhUw2eIy0-LI05qNEA=w240-h480-rw
+    icon.near: outside-top-left
+    label.near: outside-top-right
+
+    /calibre: {
+      shape: image
+      icon: https://icons.terrastruct.com/essentials%2F245-folder.svg
+    }
+    /obsidian-journal: {
+      shape: image
+      icon: https://icons.terrastruct.com/essentials%2F245-folder.svg
+    }
+  }
+  obsidian -- Syncthing./obsidian-journal
+  Moon+ Reader -- Syncthing./calibre
+}
+
+MacBook.Syncthing <-> Pixel.Syncthing
+
+reMarkable 2: {
+  near: bottom-right
+  shape: image
+  icon: https://icons.terrastruct.com/tech%2F079-tablet-1.svg
+  label.near: outside-right-center
+}
+
+scrybble: {
+  near: bottom-left
+  shape: image
+  icon: https://icons.terrastruct.com/tech%2Fbrowser-2.svg
+  label.near: outside-left-center
+}
+
+reMarkable Connect: {
+  shape: image
+  icon: https://icons.terrastruct.com/infra%2F019-network.svg
+  label.near: outside-top-center
+  width: 50
+  height: 50
+}
+
+reMarkable Connect -- scrybble: API
+reMarkable Connect -- reMarkable 2
+scrybble -- MacBook.Obsidian.scrybble
+```
+
+[^alternatives]: There are alternative [markdown note-taking apps](https://github.com/tehtbl/awesome-note-taking), and in theory you can use any [static site generator that support markdown templates](https://jamstack.org/generators/) instead of Quarto.

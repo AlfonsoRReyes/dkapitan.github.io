@@ -16,6 +16,7 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+      - run: curl -fsSL https://d2lang.com/install.sh | sh -s --
       - run: quarto add --no-prompt data-intuitive/quarto-d2
 
       - name: Install Python and Dependencies

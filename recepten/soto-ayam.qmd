@@ -1,7 +1,7 @@
 ---
 title: Soto ayam
 description: |
-    Uit 'Rijsttafelen (1970)' van Lia Warani.
+    Uit 'Rijsttafelen' van Lia Warani.
 image: ./images/soto-ayam.jpg
 categories: [Lia Warani, Indonesisch]
 ---

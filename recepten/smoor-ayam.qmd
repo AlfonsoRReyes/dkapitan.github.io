@@ -3,7 +3,7 @@ title: Smoor ayam
 description: |
     Een Indonesische klassieker
 image: ./images/smoor-ayam.jpg
-categories: []
+categories: [Indonesisch]
 ---
 
 :::{.grid}

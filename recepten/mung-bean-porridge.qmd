@@ -3,7 +3,7 @@ title: Mung bean porridge
 description: |
     I used to eat this a lot as a kid in Indonesia.
 image: ./images/bubur-kacang-hijau.jpg
-categories: [vegetarisch]
+categories: [vegetarisch, Indonesisch]
 ---
 
 :::{.grid}

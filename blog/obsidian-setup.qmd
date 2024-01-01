@@ -149,7 +149,7 @@ scrybble -- MacBook.Obsidian.scrybble
 ```
 
 ### Easier to read, think and take notes
-With this setup, taking notes while reading books on my smartphone already is a lot easier. Using Moon+ Reader, I can just highlight texts, copy and paste it directly into Obsidian. For longer reads on my reMarkable, I have setup [scrybble](https://scrybble.ink/) to sync notes to Obsidian. This Amsterdam-based startup (yay!) is quite young, and the functionality is still basic so am awaiting eagerly future releases.
+With this setup, taking notes while reading books on my smartphone already is a lot easier. Using Moon+ Reader, I can just highlight texts, copy and paste it directly into Obsidian. For longer reads on my reMarkable, I have setup [scrybble](https://scrybble.ink/) to sync notes to Obsidian. This Amsterdam-based startup (yay!) is quite young, and the functionality is still basic so am eagerly awaiting future releases.
 
 When I am at the desk, I can now do all of my reading and note-taking in Obsidian thanks to the [calibre plugin](https://github.com/caronchen/obsidian-calibre-plugin). After tinkering with the configuration, I found it so blissful being able to read, think and write from a single application. No distractions! Also, now I can gradually ease into the Evergreen way of note-taking to structure my thinking. Opening a linked note using `Cmd+T`, with the __stack notes__ option turned on, just adds to the joy of working like this:
 

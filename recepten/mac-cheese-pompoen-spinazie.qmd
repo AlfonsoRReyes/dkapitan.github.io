@@ -2,7 +2,7 @@
 title: Mac-n-cheese met pompoen en spinazie
 description: |
     Een vegetarische variant van een Amerikaanse klassieker. Van Hello Fresh. 
-image: ./images/mac-cheese-pompoen-spinzie.png
+image: ./images/mac-cheese-pompoen-spinazie.png
 categories: [vegetarisch]
 ---
 

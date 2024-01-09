@@ -1,7 +1,7 @@
 ---
 title: Another year, another lifehack
 description: |
-    How to integrate and use a fully integrated markdown-based workflow for reading, thinking and writing.
+    How to configure and use a fully integrated markdown-based workflow for reading, thinking and writing.
 date: 2023-12-30
 author: Daniel Kapitan
 image: images/obsidian-setup.png

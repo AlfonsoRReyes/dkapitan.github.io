@@ -14,4 +14,4 @@ categories: [nederlands, webinar, responsible ai, healthcare]
 
 #
 
-{{< video https://vimeo.com/883743887?h=740b7646bb >}}
+{{< video https://knmg.mediafiler.net/stbt3wqnninzfkfknyjlqwd4ee?fullview >}}

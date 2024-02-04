@@ -20,7 +20,7 @@ jobs:
       - run: quarto add --no-prompt data-intuitive/quarto-d2
 
       - name: Install Python and Dependencies
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'

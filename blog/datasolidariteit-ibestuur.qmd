@@ -12,7 +12,7 @@ date-format: "MMM YYYY"
 image: ./images/data-in-de-zorg-shutterstock_2419651697.jpg
 html:
     code-fold: true
-categories: [nederlands, datasolidariteit, data solidarity]
+categories: [nederlands, data solidarity]
 ---
 
 ## Data zijn een gemeengoed

@@ -1,10 +1,9 @@
 ---
 sidebar: true
 toc: false
-about:
-    id: about-me
-    template: solana
-    image: images/vka-profile.png
+format:
+  html:
+    page-layout: article
 ---
 
 <!---
@@ -169,27 +168,28 @@ We provide masterclasses on topics related to data & AI, ranging from introducto
 ```
 
 
-# About me
 
-:::: {.container}
+
+
 ::: {.grid}
-
-:::{.g-col-2}
+::: {.g-col-2}
 :::
 
-::: {.g-col-8}
+::: {.g-col-6}
+![](images/vka-profile.png){fig-align="center"}
+
 ### "As a data architect and AI expert I can help you create sustainable change with digital technologies."
 :::
 
 ::: {.g-col-2}
 :::
-
 :::
-::::
+
 
 <br><br><br>
 
-:::{#about-me}
+# About me
+
 Dr Daniel Kapitan (1973) is a well-rounded data scientist and strategic advisor with years of experience in the field of data, machine learning and digital transformation. His knowledge can help companies to identify how to use AI, and how to integrate this into business processes, roles, and day-to-day operations. He aims to create sustainable change in organizations by systematically engineering data that is required for new AI applications.
 
 With a PhD in physics from University of Oxford and currently Fellow at the Eindhoven AI Systems Institute (EAISI), Daniel has a strong scientific grounding in the field. He speaks authoritatively about data-driven transformation programs, reducing complexity to ‘informed simplicity’ for even the most challenging data projects. By combining data and AI know-how with industry expertise, he is capable of bringing about end-to-end business transformation for mid-sized companies, government organizations and scale-ups.
@@ -204,11 +204,6 @@ Explainable AI, physics-informed machine learning, data-centric AI, data archite
 
 ### Industry focus
 Healthcare, public sector, OEMs and scale-ups for which data and AI are a core element of their strategy.
-
-:::
-
-
-
 
 
 ### Contact details

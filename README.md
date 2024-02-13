@@ -1,2 +1,2 @@
 # kapitan.net
-My personal Quarto website, using mozilla.design style guide.
+My professional Quarto website, using mozilla.design style guide.

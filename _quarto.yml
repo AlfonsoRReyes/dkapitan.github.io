@@ -48,6 +48,8 @@ website:
             href: projects/sensire.qmd
       - text: "Blog"
         href: blog/index.qmd
+      - text: "Anthology of Data Science"
+        href: https://anthology-of-data.science
       - text: "Book an appointment"
         href: appointment/index.qmd
   page-footer:

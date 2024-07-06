@@ -3,7 +3,7 @@ title: Koreanse wrap met biefstuk
 description: |
     Koreaanse streetfood.
 image: ./images/koreaanse-wraps-met-biefstuk.jpg
-categories: []
+categories: [Asian streetfood]
 ---
 
 :::{.grid}

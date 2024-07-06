@@ -3,7 +3,7 @@ title: Pad Thai
 description: |
     Er zijn vele verschillende soorten Pad Thai zo kun je dit gerecht maken met vis, garnalen, vegetarisch of zoals ik deed, met kip. Lekker en makkelijk. 
 image: ./images/pad-thai-kom.webp
-categories: []
+categories: [Asian streetfood]
 ---
 
 :::{.grid}
